@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="nc-learn",
+    name="nc_learn",
     version="0.0.2",
     author="Necmettin Ceylan",
     author_email="necmettinceylan@hotmail.com",
