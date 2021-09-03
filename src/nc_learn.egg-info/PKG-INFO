@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: nc-learn
-Version: 0.0.3
+Version: 0.0.4
 Summary: A simple package to mimic sklearn library while learning ml algorithms
 Home-page: https://github.com/nnceylan/nc-learn
 Author: Necmettin Ceylan
