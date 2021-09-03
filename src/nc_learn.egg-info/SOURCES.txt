@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/nc_learn/__init__.py
+src/nc_learn.egg-info/PKG-INFO
+src/nc_learn.egg-info/SOURCES.txt
+src/nc_learn.egg-info/dependency_links.txt
+src/nc_learn.egg-info/top_level.txt
+src/nc_learn/dl/__init__.py
+src/nc_learn/ml/LinearRegression.py
+src/nc_learn/ml/__init__.py

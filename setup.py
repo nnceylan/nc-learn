@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="nc_learn",
-    version="0.0.2",
+    name="nc-learn",
+    version="0.0.3",
     author="Necmettin Ceylan",
     author_email="necmettinceylan@hotmail.com",
     description="A simple package to mimic sklearn library while learning ml algorithms",
@@ -20,7 +20,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_dir={"": "nc-learn"},
-    packages=setuptools.find_packages(where="nc-learn"),
+    package_dir={"": "src"},
+    packages=setuptools.find_packages(where="src"),
     python_requires=">=3.6",
 )
