@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+nc-learn/nc_learn.egg-info/PKG-INFO
+nc-learn/nc_learn.egg-info/SOURCES.txt
+nc-learn/nc_learn.egg-info/dependency_links.txt
+nc-learn/nc_learn.egg-info/top_level.txt
